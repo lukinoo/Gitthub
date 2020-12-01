@@ -84,13 +84,12 @@ body {
     margin-left: 95px;
     display: inline-block;
 }
-/* elementebi unda ikos gadalinkebadi */
+/* footeris es elementebi unda ikos gadalinkebadi */
 
 /* https://www.facebook.com */
 .main-footer-facebook li a {
     width: 14px;
     height: 30px;
-    /* margin-left: 29px; */
 }
 .main-footer ul li{
     display: inline-block;
@@ -101,4 +100,66 @@ body {
 .main-footer-youtube li a {
     width: 14px;
     height: 30px;
+}
+/* 222/////////////////////////////////////////////////////////////////////////////// */
+
+
+.calendar-section {
+    margin-top: 39px;
+    margin-left: 30px;
+    font-family: 'BPG Nino Mtavruli Bold';;
+}
+
+.calendar-box {
+    width: 52px;
+    height: 52px;
+    background-color: #3D58A6;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+    display: inline-block;
+}
+
+.calendar-number {
+    color: #FFFFFF;
+    font-size: 48px;
+    line-height: 55px;
+}
+
+.calendar-month {
+    color: #3D58A6;
+    padding: 0 20px;
+    font-size: 18px;
+}
+/* ------ */
+.main-new-information {
+    display: inline-block;
+    padding: 46px 30px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+}
+
+.main-news-title {
+    font-size: 20px;
+    color: #000000;
+}
+
+.main-info-image {
+    width: 270px;
+    height: 210px;
+    margin-top: 18px;
+}
+
+.information {
+    width: 929px;
+    height: 360px;
+    font-size: 16px;
+    color: #000000;
+    display: inline-block;
+    padding: 30px;
+    vertical-align: top;
+}
+.spaces-in-text {
+    padding: 12px 0;
+}
+
+#main-footer-change {
+    margin: 0 0 26px 30px;
 }
