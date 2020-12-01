@@ -1,3 +1,7 @@
+body {
+    width: 100%;
+    height: 100%;
+}
 .main-header {
     display: inline-block;
     padding: 30px;
@@ -30,4 +34,71 @@
     color: #3D58A6;
 }
 
+.image-banner {
+    margin: 50px 98px 109px 95px;
+}
 
+.box-title {
+    font-family: 'Roboto', sans-serif;
+    margin: 109px 0 40px 98px;
+    font-size: 24px;
+}
+
+.main-block {
+    display: inline-block;
+    width: 570px;
+    height: 225px;
+    padding: 20px;
+    background-color: #F2F2F2;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 95px;
+}
+
+.main-block-title {
+    color: #3D58A6;
+    font-size: 20px;
+}
+
+.main-block-image {
+    width: 102px;
+    height: 145px;
+    margin-top: 14px;
+}
+.main-block-text {
+    display: inline-block;
+    width: 355px;
+    height: 143px;
+    vertical-align: top;
+    margin-top: 14px;
+    padding: 20px;
+    text-align: left;
+    color: #333333;
+}
+
+#main-block-change {
+    margin-left: 25px;
+}
+
+.main-footer {
+    margin-top: 69px;
+    margin-left: 95px;
+    display: inline-block;
+}
+/* elementebi unda ikos gadalinkebadi */
+
+/* https://www.facebook.com */
+.main-footer-facebook li a {
+    width: 14px;
+    height: 30px;
+    /* margin-left: 29px; */
+}
+.main-footer ul li{
+    display: inline-block;
+    padding:0 18px;
+}
+
+/* https://www.youtube.com */
+.main-footer-youtube li a {
+    width: 14px;
+    height: 30px;
+}

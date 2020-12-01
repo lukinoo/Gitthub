@@ -7,3 +7,5 @@
          url('../fonts/bpg-nino-mtavruli-bold-master/fonts/bpg-nino-mtavruli-bold-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
          url('../fonts/bpg-nino-mtavruli-bold-master/fonts/bpg-nino-mtavruli-bold-webfont.svg') format('svg'); /* Legacy iOS */
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
