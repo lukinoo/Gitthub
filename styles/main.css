@@ -1,0 +1,33 @@
+.main-header {
+    display: inline-block;
+    padding: 30px;
+    font-family: 'BPG Nino Mtavruli Bold';
+    font-size: 22px;
+}
+
+.main-image-logo {
+    width: 100px;
+    height: 30px;
+}
+
+.nav-bar {
+    display: inline-block;
+    margin:0 50px;
+}
+
+.nav-bar ul li {
+    margin-bottom: 10px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#nav-main {
+    color: #EE4036;
+}
+
+.nav-bar ul li a {
+    margin: 0 18px;
+    color: #3D58A6;
+}
+
+
