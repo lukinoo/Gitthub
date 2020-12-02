@@ -16,7 +16,7 @@ body {
 
 .nav-bar {
     display: inline-block;
-    margin:0 50px;
+    margin:0 18px;
 }
 
 .nav-bar ul li {
@@ -63,6 +63,7 @@ body {
     width: 102px;
     height: 145px;
     margin-top: 14px;
+    margin-left: 25px;
 }
 .main-block-text {
     display: inline-block;
@@ -70,8 +71,9 @@ body {
     height: 143px;
     vertical-align: top;
     margin-top: 14px;
+    margin-left: 30px;
+    line-height: 20px;
     padding: 20px;
-    text-align: left;
     color: #333333;
 }
 
@@ -101,7 +103,7 @@ body {
     width: 14px;
     height: 30px;
 }
-/* 222/////////////////////////////////////////////////////////////////////////////// */
+/* page3/////////////////////////////////////////////////////////////////////////////// */
 
 
 .calendar-section {
@@ -163,3 +165,47 @@ body {
 #main-footer-change {
     margin: 0 0 26px 30px;
 }
+/* page3 */
+.main-location {
+    display: inline-block;
+    margin-top: -21px;
+    width: 100%;
+    height: 570px;
+    background-color: #E6E6E6;
+}
+
+.main-location-picture {
+    width: 874px;
+    height: 466px;
+    margin: 52px 0;
+    /* margin-right: 90px; */
+    margin-left: 0;
+}
+.main-location-info {
+    display: inline-block;
+    width: 261px;
+    height: 98px;
+    margin: 68px 54px 0 87px;
+    vertical-align: top;
+}
+.main-location-info-contacts {
+    color: #000000;
+}
+
+.main-location-title {
+    color: #3D58A6;
+    font-size: 20px;
+    line-height: 30px;
+    font-family: 'BPG Nino Mtavruli Bold';
+}
+
+.id {
+    color: #808080;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+#main-footer-change {
+    margin: 35px 0 28px 48px;
+}
+
