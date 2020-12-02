@@ -175,10 +175,7 @@ body {
 }
 
 .main-location-picture {
-    width: 874px;
-    height: 466px;
     margin: 52px 0;
-    /* margin-right: 90px; */
     margin-left: 0;
 }
 .main-location-info {
@@ -190,6 +187,7 @@ body {
 }
 .main-location-info-contacts {
     color: #000000;
+    font-family: BPG Ingiri Arial;
 }
 
 .main-location-title {
@@ -203,6 +201,7 @@ body {
     color: #808080;
     font-size: 16px;
     line-height: 20px;
+    
 }
 
 #main-footer-change {
